@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Seminar3\Second\bin\Debug\net6.0\Second.exe
+C:\Users\Руслан\Desktop\Seminar3\Second\bin\Debug\net6.0\Second.deps.json
+C:\Users\Руслан\Desktop\Seminar3\Second\bin\Debug\net6.0\Second.runtimeconfig.json
+C:\Users\Руслан\Desktop\Seminar3\Second\bin\Debug\net6.0\Second.dll
+C:\Users\Руслан\Desktop\Seminar3\Second\bin\Debug\net6.0\Second.pdb
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.dll
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\refint\Second.dll
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.pdb
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\Second.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Seminar3\Second\obj\Debug\net6.0\ref\Second.dll
