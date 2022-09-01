@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Seminar3\THEN\bin\Debug\net6.0\THEN.exe
+C:\Users\Руслан\Desktop\Seminar3\THEN\bin\Debug\net6.0\THEN.deps.json
+C:\Users\Руслан\Desktop\Seminar3\THEN\bin\Debug\net6.0\THEN.runtimeconfig.json
+C:\Users\Руслан\Desktop\Seminar3\THEN\bin\Debug\net6.0\THEN.dll
+C:\Users\Руслан\Desktop\Seminar3\THEN\bin\Debug\net6.0\THEN.pdb
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.dll
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\refint\THEN.dll
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.pdb
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\THEN.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Seminar3\THEN\obj\Debug\net6.0\ref\THEN.dll
